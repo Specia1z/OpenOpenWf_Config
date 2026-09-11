@@ -8,7 +8,7 @@
     "server_host": "186.244.210.79",
     "http_port": 8800,
     "https_port": 8801,
-    "disable_nrs_connection": false,
+    "disable_nrs_connection": true,
     "disable_client_logging": true,
     "language": "zh",
     "languageVO": "-",
