@@ -1,7 +1,7 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "minimum_version": "0.1.0",
-    "force_update": false,
+    "force_update": true,
     "download_url": "https://github.com/Specia1z/OpenOpenWf_Config/releases/download/v0.1.0/openopenlauncher.exe",
     "sha256": "REPLACE_WITH_RELEASE_SHA256",
     "changelog": "初始版本",
