@@ -3,7 +3,7 @@
     "minimum_version": "0.1.0",
     "force_update": false,
     "download_url": "",
-    "sha256": "REPLACE_WITH_RELEASE_SHA256",
+    "sha256": "9B284AB55A796C7AF1C27B01140356DD65B492BA67586E87473AB6D30EE8FE7E",
     "changelog": "初始版本",
     "server_host": "127.0.0.1",
     "http_port": 80,
