@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "minimum_version": "0.1.0",
+    "force_update": false,
+    "download_url": "https://github.com/Specia1z/OpenOpenWf_Config/releases/download/v0.1.0/openopenlauncher.exe",
+    "sha256": "REPLACE_WITH_RELEASE_SHA256",
+    "changelog": "初始版本",
+    "server_host": "127.0.0.1",
+    "http_port": 80,
+    "https_port": 443,
+    "disable_nrs_connection": false,
+    "disable_client_logging": true,
+    "language": "zh",
+    "languageVO": "-",
+    "graphicsDriver": "dx11"
+}
